@@ -7,7 +7,7 @@
 - Evalute data on a week by week basis for individual players
 - Group data to evaluate postion performance, individual performance, performance by day of week, and performance by week or season.
 - Will eventually be able to build into a bigger project with a GUI on a website for individuals to evaluate the data themselves by inputing options. 
-- Data was provided by Pro Football Reference(https://www.pro-football-reference.com/) through a webscrap
+- Data was provided by Pro Football Reference (https://www.pro-football-reference.com/) through a webscrap
 
 #### Presentation structure (7-10 min)
 - Share your URL
