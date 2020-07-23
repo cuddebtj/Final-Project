@@ -1,7 +1,7 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Final Project: Python
 
 ## NFL Fantasy Football Data Analysis
-###Goals:
+### Goals:
 - Evalute data on a week by week basis for individual players
 - Group data to evaluate postion performance, individual performance, performance by day of week, and performance by week or season.
 - Will eventually be able to build into a bigger project with a GUI on a website for individuals to evaluate the data themselves by inputing options. 
